@@ -1,6 +1,8 @@
-**完整代码收费  加qq  931708230 或者加微信  ynwwxid**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 **博客地址：
 [https://blog.csdn.net/2303_76227485/article/details/128646507](https://blog.csdn.net/2303_76227485/article/details/128646507)**
@@ -8,14 +10,14 @@
 **视频演示：
 [B站视频演示](https://space.bilibili.com/384537280)**
 
-**毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+
 
 ## 基于Vue和SpringBoot的超市账单管理系统
 
 ## 一、系统介绍
 
 管理员：
+
 - 系统基础管理：对登入用户、部门、角色、权限进行维护。       
 - 商品管理：对超市所出售的商品档案进行维护。      
 - 供应商管理：对超市所合作的供应商档案进行维护。      
@@ -28,6 +30,7 @@
 ## 二、所用技术
 
 后端技术栈：
+
 - springboot
 - mybatisPlus
 - SpringSecurity
@@ -35,6 +38,7 @@
 - Java
 
 前端技术栈：
+
 - vue
 - View UI       
 
@@ -59,9 +63,6 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2bf86b6c70384e8dbbab092754219ab9.png#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c08bb003ced34a9f862768ac84e5d1a2.png#pic_center)
 
-
-
-
 ## 五、浏览地址
 
 http://localhost:8081/
@@ -71,7 +72,7 @@ http://localhost:8081/
 职员账号：staff1 密码： 123456
 
 经理账号：header1 密码： 123456
-	
+
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
@@ -98,6 +99,4 @@ redis-server.exe redis.windows.conf
 
 6.使用idea导入back后端项目，maven方式导入，运行(默认1314端口)！
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
